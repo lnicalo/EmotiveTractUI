@@ -41,6 +41,6 @@ The test driver was trained to use these events. In the training process, the Em
 Results
 ======
 
-To see the application in action, watch the following video:
+To see the application in action, watch the following video: http://www.youtube.com/watch?v=O5jYRoBJml8
 
-[![ScreenShot](https://raw.githubusercontent.com/lnicalo/EmotiveTractUI/master/figures/screeshotApplication.jpg)](https://www.youtube.com/watch?v=O5jYRoBJml8)
+[![ScreenShot](https://raw.githubusercontent.com/lnicalo/EmotiveTractUI/master/figures/screeshotApplication.jpg)](http://www.youtube.com/watch?v=O5jYRoBJml8)
