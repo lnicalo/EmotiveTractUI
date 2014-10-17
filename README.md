@@ -37,3 +37,10 @@ The C++ application receives the processed user brain information through the Em
 Figure 2. Simplified flow chart of the (a) system training of the four events that the BCI has to detect and (b) system test following a trajectory with the tractor. 
 
 The test driver was trained to use these events. In the training process, the EmoEngine analyzes the driver brainwaves to achieve a personalized signature of each particular event as well as one of a neutral background state. These signatures are stored in the EmoEngine memory. In the tractor steering process, the EmoEngine analyzes in real time the brainwaves acquired to detect signatures that match one of the previously stored signatures in the EmoEngine memory, and when this occurs, it communicates to the application that a specific event with a specific power emanated from the user brain.
+
+Results
+======
+
+To see the application in action, watch the following video:
+
+[![ScreenShot](https://raw.githubusercontent.com/lnicalo/EmotiveTractUI/master/figures/screeshotApplication.jpg)](https://www.youtube.com/watch?v=O5jYRoBJml8)
