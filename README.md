@@ -1,4 +1,4 @@
 EmotiveTractUI
 ==============
 
-Application that allows steering a tractor using a BCI the control 
+C++ Application that allows steering a tractor using an Emotiv EPOC headset.
